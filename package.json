@@ -1,6 +1,6 @@
 {
   "name": "to-base64",
-  "description": "to-base64.",
+  "description": "Transform file from local or network to base64 string data",
   "version": "1.0.1",
   "author": "Shallker <imshallker@gmail.com>",
   "main": "index.js",
