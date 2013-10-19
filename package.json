@@ -1,0 +1,27 @@
+{
+  "name": "to-base64",
+  "description": "to-base64.",
+  "version": "1.0.1",
+  "author": "Shallker <imshallker@gmail.com>",
+  "main": "index.js",
+  "keywords": [
+    "to-base64"
+  ],
+  "homepage": "https://github.com/shallker/to-base64",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shallker/to-base64.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shallker/to-base64/issues"
+  },
+  "dependencies": {
+    "node-http": "*",
+    "reges": "*"
+  },
+  "devDependencies": {
+    "simple-test": "*"
+  },
+  "scripts": {},
+  "license": "MIT"
+}
