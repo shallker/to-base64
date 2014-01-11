@@ -17,7 +17,8 @@
   },
   "dependencies": {
     "node-http": "*",
-    "reges": "*"
+    "reges": "*",
+    "mime": "*"
   },
   "devDependencies": {
     "simple-test": "*"
